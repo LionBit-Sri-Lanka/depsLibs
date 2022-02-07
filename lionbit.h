@@ -7,7 +7,7 @@
 // stem_hal.h /* Intial header file */
 /*
  * Author             - Niwantha Meepage
- * Comapany           - Algobel Technologies & Innovations 
+ * Comapany           - DigitalAcademy
  * Created ALT Date         - 4 Nov 2019
  * Edited                   - 5 Dec 2019
  * 
